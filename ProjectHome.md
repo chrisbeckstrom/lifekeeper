@@ -1,0 +1,1 @@
+LifeKeeper is a simple ncurses-based journal/diary-keeping application
